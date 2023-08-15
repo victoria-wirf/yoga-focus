@@ -1,0 +1,8 @@
+.logo-link {
+    display: flex;
+    cursor: pointer
+}
+
+.logo-link img {
+    max-height: 200px;
+}
