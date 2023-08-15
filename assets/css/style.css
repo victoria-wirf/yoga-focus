@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Rosarivo&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+Body {
+    font-family: Rosarivo, sans-serif;
+    font-weight: 400;
+}
+
+
+
 .logo-link {
     display: flex;
     cursor: pointer
