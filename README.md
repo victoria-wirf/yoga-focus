@@ -10,7 +10,7 @@ Navigation Bar
 The top of the website consist of a  responsive navigation bar where the logo is placed on the far left and the menu on the right. The logo was made by the help of Looka, a website that generates logos based on input about the brand such as color, sentiment and branch. The menu bar consists of ”Home”, ”Inspiration” and ”Contact”, all of the being links for easy user navigation.
 
 
-# ADD OWN NAVBAR PIC #
+
 
 * The landing page image
 
@@ -24,8 +24,8 @@ In ”Benefits” section the user can read  about the benefits of practising yo
 ￼
 
 
-* Inspiration (Video)
-* On the Inspiration section you can find some recommended yoga and meditation content in the form af YouTube videos. 
+nspiration (Video)
+ On the Inspiration section you can find some recommended yoga and meditation content in the form af YouTube videos. 
 
 
 Deployment
