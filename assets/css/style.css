@@ -21,7 +21,7 @@ body {
 /* Header */
 header {
     display: flex;
-    position: sticky;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -34,7 +34,7 @@ header {
 Header * {
     display: inline;
     height: 50px;
-    }
+}
 
 
 
@@ -44,10 +44,16 @@ nav {
     letter-spacing: 5px;
     word-spacing: 5px;
 
+    
+
 
 }
+a {
+    text-decoration: none;
+  }
 
 .logo {
+    
     display: flex;
     cursor: pointer
 }
@@ -55,10 +61,8 @@ nav {
 
 /* Main content */
 
-main {
+main {}
 
-    
-}
 section {
     height: 100vh;
     border: 1px solid black;
@@ -66,32 +70,30 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    
-    background-size: cover; 
-    background-position: center center; 
-    background-repeat: no-repeat; 
+
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
 
 /* Footer */
 
-footer {
-
-}
+footer {}
 
 
 
 
 
 #home {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75),rgba(255,255,255,0.75)), url('/assets/images/hero-image.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/assets/images/hero-image.jpg');
 }
 
 #inspiration {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('/assets/images/yoga-in-nature.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/assets/images/yoga-in-nature.jpg');
 }
 
 #signup {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('/assets/images/yoga-in-studio.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/assets/images/yoga-in-studio.jpg');
 }
