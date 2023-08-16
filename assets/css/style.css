@@ -1,23 +1,97 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&family=Rosarivo&display=swap');
 
+/* Override default styles */
 * {
     margin: 0;
     padding: 0;
-    border: none;
+    box-sizing: border-box;
 }
 
-Body {
+/* General styles */
+
+body {
+
+    margin: 0;
+    margin-top: 50px;
     font-family: Rosarivo, sans-serif;
     font-weight: 400;
 }
 
 
+/* Header */
+header {
+    display: flex;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    line-height: 50px;
+    background-color: white
+}
 
-.logo-link {
+
+Header * {
+    display: inline;
+    height: 50px;
+    }
+
+
+
+nav {
+    margin-left: auto;
+    margin-right: 40px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+
+
+}
+
+.logo {
     display: flex;
     cursor: pointer
 }
 
-.logo-link img {
-    max-height: 200px;
+
+/* Main content */
+
+main {
+
+    
+}
+section {
+    height: 100vh;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+
+/* Footer */
+
+footer {
+
+}
+
+
+
+
+
+#home {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75),rgba(255,255,255,0.75)), url('/assets/images/hero-image.jpg');
+}
+
+#inspiration {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('/assets/images/yoga-in-nature.jpg');
+}
+
+#signup {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('/assets/images/yoga-in-studio.jpg');
 }
