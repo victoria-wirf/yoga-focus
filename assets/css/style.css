@@ -1,99 +1,106 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Rosarivo&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Raleway&family=Rosarivo&display=swap");
 
 /* Override default styles */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 /* General styles */
 
 body {
-
-    margin: 0;
-    margin-top: 50px;
-    font-family: Rosarivo, sans-serif;
-    font-weight: 400;
+  margin: 0;
+  margin-top: 50px;
+  font-family: Rosarivo, sans-serif;
+  font-weight 500;
 }
-
 
 /* Header */
 header {
-    display: flex;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 50px;
-    line-height: 50px;
-    background-color: white
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  line-height: 50px;
+  background-color: white;
 }
-
 
 Header * {
-    display: inline;
-    height: 50px;
+  display: inline;
+  height: 50px;
 }
 
-
+/* Navigation Bar */
 
 nav {
-    margin-left: auto;
-    margin-right: 40px;
-    letter-spacing: 5px;
-    word-spacing: 5px;
-
-    
-
-
+  margin-left: auto;
+  margin-right: 40px;
+  letter-spacing: 5px;
+  word-spacing: 5px;
 }
 a {
-    text-decoration: none;
-  }
+  text-decoration: none;
+}
+/* Logotype */
 
 .logo {
-    
-    display: flex;
-    cursor: pointer
+  display: flex;
+  cursor: pointer;
 }
-
-
+.section-1,
+.section-2,
+.section-3, {
+  border-radius: 25%;
+  border: 3px solid whitesmoke;
+  padding: 50px;
+  margin: 20px;
+}
 /* Main content */
 
-main {}
-
 section {
-    height: 100vh;
-    border: 1px solid black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+  height: 100vh;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 
-/* Footer */
-
-footer {}
-
-
-
-
+/* Background images for all 3 pages */
 
 #home {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/assets/images/hero-image.jpg');
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.75),
+      rgba(255, 255, 255, 0.75)
+    ),
+    url("/assets/images/hero-image.jpg");
 }
 
 #inspiration {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/assets/images/yoga-in-nature.jpg');
+  background-image: radial-gradient(
+      rgba(255, 255, 255, 0.75),
+      rgba(255, 255, 255, 0.75)
+    ),
+    url("/assets/images/yoga-in-nature.jpg");
 }
 
 #signup {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/assets/images/yoga-in-studio.jpg');
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.75),
+      rgba(255, 255, 255, 0.75)
+    ),
+    url("/assets/images/yoga-in-studio.jpg");
+}
+/* Footer */
+
+footer {
 }
