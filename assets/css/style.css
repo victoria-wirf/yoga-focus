@@ -94,6 +94,14 @@ section {
     url('../images/yoga-in-studio.jpg');
 }
 
+
+.section-1, .section-2, .section-3 {
+margin: 20px;
+}
+
+
+
+
 #home, #inspiration, #signup
 
 {
