@@ -103,15 +103,30 @@ section {
 .section-2,
 .section-3,
   {
-  margin: 20px;
+  margin: 40px;
   margin-top: -450px;
+
+
 }
-
-
-
 
 #home,
 #inspiration,
 #signup {
   border-radius: 25%;
+}
+
+footer {}
+
+footer {
+  text-align: center;
+  list-style: none;
+
+}
+
+.horizontal-list {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+  padding-top: 300px;
+
 }
