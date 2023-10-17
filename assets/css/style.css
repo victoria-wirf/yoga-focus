@@ -82,7 +82,7 @@ section {
       rgba(255, 255, 255, 0.75),
       rgba(255, 255, 255, 0.75)
     ),
-    url("/assets/images/hero-image.jpg");
+    url('../images/hero-image.jpg');
 }
 
 #inspiration {
@@ -90,7 +90,7 @@ section {
       rgba(255, 255, 255, 0.75),
       rgba(255, 255, 255, 0.75)
     ),
-    url("/assets/images/yoga-in-nature.jpg");
+    url('../images/yoga-in-nature.jpg');
 }
 
 #signup {
@@ -98,7 +98,7 @@ section {
       rgba(255, 255, 255, 0.75),
       rgba(255, 255, 255, 0.75)
     ),
-    url("/assets/images/yoga-in-studio.jpg");
+    url('../images/yoga-in-studio.jpg');
 }
 /* Footer */
 
