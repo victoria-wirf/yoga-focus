@@ -121,7 +121,14 @@ footer {
 
 
 }
+.follow {
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
 .socials {
-  display: flex;
-  flex-direction: row-reverse;
+  text-align: center;
+  padding-bottom: 1%;
+
 }
