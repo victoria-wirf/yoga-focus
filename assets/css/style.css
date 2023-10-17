@@ -27,13 +27,13 @@ header {
   line-height: 50px;
   background-color: white;
 
-  
+
 }
 
 Header * {
   display: inline;
   height: auto;
-  
+
 }
 
 /* Navigation Bar */
@@ -47,6 +47,7 @@ nav {
 
 a {
   text-decoration: none;
+  list-style-type: none;
 }
 
 /* Logotype */
@@ -55,6 +56,7 @@ a {
   display: flex;
   cursor: pointer;
   padding-left: 2%;
+
 }
 
 /* Main content */
@@ -99,10 +101,11 @@ section {
 
 .section-1,
 .section-2,
-.section-3 {
+.section-3,
+  {
   margin: 20px;
-  margin-top: -300px;
-  }
+  margin-top: -450px;
+}
 
 
 
@@ -111,24 +114,4 @@ section {
 #inspiration,
 #signup {
   border-radius: 25%;
-}
-
-
-
-/* Footer */
-
-footer {
-
-
-}
-.follow {
-  text-align: center;
-  padding-top: 1%;
-  padding-bottom: 1%;
-}
-
-.socials {
-  text-align: center;
-  padding-bottom: 1%;
-
 }
