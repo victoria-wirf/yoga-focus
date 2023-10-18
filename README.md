@@ -60,5 +60,9 @@ https://fontjoy.com/ (font matching)
 
 https://coolors.co/ (color generator)
 
+![Yoga-Focus-Colors](https://github.com/victoria-wirf/yoga-focus/assets/111445609/f3d5a177-5592-449c-a144-b168c554751d)
+
+
+
 https://www.iloveimg.com/
 
