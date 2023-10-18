@@ -127,6 +127,10 @@ footer {
   display: flex;
   list-style-type: none;
   justify-content: space-evenly;
-  padding-top: 300px;
+ 
 
 }
+#signup-form {
+  display: flex;
+}
+
