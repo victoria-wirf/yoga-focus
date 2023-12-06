@@ -131,6 +131,8 @@ footer {}
 footer {
   text-align: center;
   list-style: none;
+  padding-top: 3%;
+  padding-bottom: 3%;
 
 }
 
