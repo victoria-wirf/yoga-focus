@@ -143,6 +143,13 @@ footer {
   padding: 100px;
   margin: 8px 0;
   box-sizing: border-box;
+  
+
+}
+
+.text-input {
+font-weight: 500;
+padding: 3%;
 
 }
 
