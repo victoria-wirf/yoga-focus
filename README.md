@@ -1,13 +1,18 @@
 **Yoga Focus**
 
-The main objective with this website is to introduce yoga and meditation into peoples daily lives since the benefits are many.The website will introduce all the benefits in summarized text and recommendation of free yoga videos. The website will start of by motivating the visitor to want to know more about yoga and mediation and how it can improve their overall health for example lower stress, reduce anxiety, improve sleep etc.
+The main objective with this website is to introduce yoga and meditation into people's daily lives since the benefits are many.
+The website will introduce all the benefits in summarized text and encouragement to sign up to a newsletter where they will be provided more information on yoga and meditation. 
+The website will start of by motivating the visitor to want to know more about yoga and mediation and how it can improve their overall health for example lower stress, reduce anxiety, improve sleep etc.
 
 
 **Features**
 
 Navigation Bar
 
-The top of the website consist of a  responsive navigation bar where the logo is placed on the far left and the menu on the right. The logo was made by the help of Looka, a website that generates logos based on input about the brand such as color, sentiment and branch. The menu bar consists of ”Home”, ”Inspiration” and ”Contact”, all of the being links for easy user navigation.
+The top of the website consist of a  responsive navigation bar where the logo is placed on the far left and the menu on the right. The logo was made by the help of Looka, a website that generates logos based on input about the brand such as color, sentiment and branch. The menu bar consists of ”Home”, ”Inspiration” and ”Contact”, all of them being links for easy user navigation.
+
+
+**Lägg till bild på nav bar här**
 
 
 
@@ -38,7 +43,7 @@ https://victoria-wirf.github.io/yoga-focus/
 
 
 
-**Credits**
+**Credits** 
 
 https://codetheweb.blog/steps-to-creating-a-website/
 
