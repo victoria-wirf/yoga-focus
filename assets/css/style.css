@@ -145,3 +145,11 @@ footer {
   box-sizing: border-box;
 
 }
+
+.signup-button {
+  font-family: Rosarivo, sans-serif;
+  font-weight: 500;
+  padding: 3%;
+  margin: 3%;
+
+}
