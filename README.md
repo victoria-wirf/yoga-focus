@@ -62,7 +62,7 @@ https://coolors.co/ (color generator)
 
 ![Yoga-Focus-Colors](https://github.com/victoria-wirf/yoga-focus/assets/111445609/f3d5a177-5592-449c-a144-b168c554751d)
 
-
+*used as a guideline on how to create a readme* -https://github.com/Code-Institute-Solutions/readme-template
 
 https://www.iloveimg.com/
 
