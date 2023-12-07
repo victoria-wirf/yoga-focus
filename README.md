@@ -53,24 +53,23 @@ https://victoria-wirf.github.io/yoga-focus/
 
 Testing of the Yoga Focus HTML and CSS code has successfully been made on C3W and Jigsaw and can be found via the following links:
 
-Accessibility testing was also completed via
+Accessibility testing was also successfully completed via:
+
+Grammar and spelling testing came out successful via:
+https://app.grammarly.com/
+
+
+<h2>Credits</h2>
 
 
 To esthetically showcase the Yoga Focus website on different screens the following website was used :
 
 https://ui.dev/amiresponsive
 
-The image is on top of the README page.
-
+<b>The image is on top of the README page.</b>
 
 
 Guidelines and recommendations on how to write a README have been derived from the Code Institute template: https://github.com/Code-Institute-Solutions/readme-template
-
-
-
-
-<h2>Credits</h2>
-
 
 
 
@@ -101,6 +100,8 @@ A color generator was used to find a suitable color scheme for the Yoga Focus we
 https://coolors.co/
 
 ![Yoga-Focus-Colors](https://github.com/victoria-wirf/yoga-focus/assets/111445609/f3d5a177-5592-449c-a144-b168c554751d)
+
+Grammar and spelling
 
 
 
