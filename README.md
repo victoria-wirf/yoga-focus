@@ -2,6 +2,7 @@
 <img width="1053" alt="Yoga-Focus-Mockup" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/3c196916-4a57-4a14-86dd-0cab6e95b3eb">
 
 
+
 The main objective with this website is to introduce yoga and meditation into people's daily lives since the benefits are many.
 The website will introduce all the benefits in summarized text and encouragement to sign up to a newsletter where they will be provided more information on yoga and meditation. 
 The website will start of by motivating the visitor to want to know more about yoga and mediation and how it can improve their overall health for example lower stress, reduce anxiety, improve sleep etc.
@@ -13,8 +14,8 @@ Navigation Bar
 
 The top of the website consist of a  responsive navigation bar where the logo is placed on the far left and the menu on the right. The logo was made by the help of Looka, a website that generates logos based on input about the brand such as color, sentiment and branch. The menu bar consists of ”Home”, ”Inspiration” and ”Contact”, all of them being links for easy user navigation.
 
+<img width="373" alt="Yoga-Focus-Nav-Bar" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/1965247f-3927-4bf0-98b6-a4aa0d4a4440">
 
-**Lägg till bild på nav bar här**
 
 
 
