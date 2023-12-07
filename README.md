@@ -31,11 +31,8 @@ The top of the website consist of a  responsive navigation bar where the logo is
 
 <b>Benefits of yoga and meditation</b>
 
-<summary>In the Home section the user can read  about the benefits of practising yoga and meditation where the main goal is to provide facts and information;  the benefits of yoga and mediation by its own, and as a combination for greater health.
- Each text section are intentionally made short and concise with relevant key points to inspire the user/reader  to keep the interest and the continuation to explore the website.</summary>
-
-￼
-
+<p>In the Home section the user can read  about the benefits of practising yoga and meditation where the main goal is to provide facts and information;  the benefits of yoga and mediation by its own, and as a combination for greater health.
+ Each text section are intentionally made short and concise with relevant key points to inspire the user/reader  to keep the interest and the continuation to explore the website.</p>
 
 
 
@@ -74,6 +71,9 @@ Guidelines and recommendations on how to write a README have been derived from t
 
 <h2>Credits</h2>
 
+
+
+
 <b>Codetheweb</b>
 
 <p>The main idea of the Yoga Focus website was inspired by codetheweb website which has an organized and fun coding style that I personally liked via
@@ -81,7 +81,7 @@ https://codetheweb.blog/steps-to-creating-a-website/ </p>
 
 <b>Content</b>
 <p>The facts and information about meditation is inspired by the following website:
-https://osteopathic.org/what-is-osteopathic-medicine/benefits-of-yoga/#:~:text=Yoga's%20incorporation%20of%20meditation%20and,sharpens%20concentration%2C%E2%80%9D%20says%20Dr.</p>
+https://osteopathic.org/what-is-osteopathic-medicine/benefits-of-yoga/#:~:text=Yoga's%20incorporation%20of%20meditation%20and,sharpens%20concentration%2C%E2%80%9D%20says%20Dr."target="_blank"</p>
 
 <b>Images</b>
 
