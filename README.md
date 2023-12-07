@@ -1,4 +1,4 @@
-**Yoga Focus**
+<h1>Yoga Focus</h1>
 <img width="1053" alt="Yoga-Focus-Mockup" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/3c196916-4a57-4a14-86dd-0cab6e95b3eb">
 
 
