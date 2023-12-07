@@ -19,7 +19,6 @@ body {
 h1 {
   color: #350604;
   padding-bottom: 3%;
- 
 }
 
 h3 {
@@ -27,9 +26,7 @@ h3 {
 }
 
 p {
-  color: #3F0004;
-
-
+  color: #3f0004;
 }
 
 /* Header */
@@ -41,14 +38,11 @@ header {
   height: 50px;
   line-height: 50px;
   background-color: white;
-
-
 }
 
 Header * {
   display: inline;
   height: auto;
-
 }
 
 /* Navigation Bar */
@@ -58,8 +52,6 @@ nav {
   margin-right: 40px;
   letter-spacing: 2px;
   word-spacing: 6px;
-
-
 }
 
 nav a {
@@ -74,12 +66,9 @@ nav a {
   display: flex;
   cursor: pointer;
   padding-left: 2%;
-
 }
 
 /* Main content */
-
-
 
 section {
   height: 100vh;
@@ -95,27 +84,30 @@ section {
   background-attachment: fixed;
 }
 
-
-
-
 /* Background images for all 3 pages */
 
 #home {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.75),
-      rgba(255, 255, 255, 0.75)),
-    url('../images/hero-image.jpg');
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.75),
+      rgba(255, 255, 255, 0.75)
+    ),
+    url("../images/hero-image.jpg");
 }
 
 #inspiration {
-  background-image: radial-gradient(rgba(255, 255, 255, 0.75),
-      rgba(255, 255, 255, 0.75)),
-    url('../images/yoga-in-nature.jpg');
+  background-image: radial-gradient(
+      rgba(255, 255, 255, 0.75),
+      rgba(255, 255, 255, 0.75)
+    ),
+    url("../images/yoga-in-nature.jpg");
 }
 
 #signup {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.75),
-      rgba(255, 255, 255, 0.75)),
-    url('../images/yoga-in-studio.jpg');
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.75),
+      rgba(255, 255, 255, 0.75)
+    ),
+    url("../images/yoga-in-studio.jpg");
 }
 
 /* Signup form styles */
@@ -126,13 +118,11 @@ section {
   margin: 8px 0;
   box-sizing: border-box;
   color: #350604;
-
 }
 
 .text-input {
   font-weight: 500;
   padding: 3%;
-
 }
 
 .signup-button {
@@ -141,12 +131,7 @@ section {
   padding: 3%;
   margin: 3%;
   color: #350604;
-
 }
-
-
-
-
 
 .section-1 .section-2 .section-3 {
   margin: 40px;
@@ -160,13 +145,11 @@ section {
   padding: 10%;
 }
 
-
 footer {
   text-align: center;
   list-style: none;
   padding-top: 3%;
   padding-bottom: 3%;
-
 }
 
 footer a {
@@ -174,12 +157,8 @@ footer a {
   color: #350604;
 }
 
-
 .horizontal-list {
   display: flex;
   list-style-type: none;
   justify-content: space-evenly;
-
-
-
 }
