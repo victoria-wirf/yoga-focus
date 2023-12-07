@@ -85,7 +85,7 @@ https://osteopathic.org/what-is-osteopathic-medicine/benefits-of-yoga/#:~:text=Y
 
 <b>Images</b>
 
-All images are derived from the following website: www.pexels.com
+All images are derived from the following website: <href="https://www.pexels.com" target="_blank"></a>
 ￼
 Some images used were too large or needed some adjustment and cropping and this was sucessfully managed via:
 https://tinyjpg.com/ ( compressing images, hero image)
