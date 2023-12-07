@@ -50,7 +50,7 @@ https://victoria-wirf.github.io/yoga-focus/
 
 <b>W3C & Jigsaw validator</b>
 
-<p>Testing of the Yoga Focus HTML and CSS code has successfully been made on C3W and Jigsaw and can be found via the following links:</p>
+<p>Testing of the Yoga Focus HTML and CSS code has successfully been made on C3W and Jigsaw and can be found via the following links:</p> https://validator.w3.org/ & https://jigsaw.w3.org/css-validator/
 
 Accessibility testing was also successfully completed via:https://websiteaccessibilitychecker.com/checker/index.php
 <img width="1176" alt="Yoga-Focus-Acessability" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/0f3c1ec7-5706-45f4-ae01-b2dbe462536a">
