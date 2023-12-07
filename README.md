@@ -1,5 +1,6 @@
 <h1>Yoga Focus</h1>
-<img width="1053" alt="Yoga-Focus-Mockup" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/3c196916-4a57-4a14-86dd-0cab6e95b3eb">
+<img width="1053" alt="Yoga-Focus-Mockup" src="https://github.com/vict<img width="1176" alt="Skärmavbild 2023-12-07 kl  15 49 11" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/d2cd952e-66d0-46eb-b051-f8f293449ecd">
+oria-wirf/yoga-focus/assets/111445609/3c196916-4a57-4a14-86dd-0cab6e95b3eb">
 
 <i>Image credit: https://ui.dev/amiresponsive</i>
 
@@ -33,8 +34,7 @@ The top of the website consists of a  responsive navigation bar where the logo i
 
 <p>In the Home section the user can read about the benefits of practicing yoga and meditation where the main goal is to provide facts and information, the benefits of yoga and meditation on its own, and as a combination for greater health.
  Each text section is intentionally made short with relevant key points to inspire the user/reader to keep their interest and the continuation to explore the website.</p>
-
-
+<img width="1176" alt="Yoga-Focus-Acessability" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/024be4c3-acda-4da1-bd48-e16e14f09373">
 
 <h2>Deployment</h2>
 
@@ -51,11 +51,14 @@ https://victoria-wirf.github.io/yoga-focus/
 
 <h2>Testing</h2>
 
-Testing of the Yoga Focus HTML and CSS code has successfully been made on C3W and Jigsaw and can be found via the following links:
+<b>W3C & Jigsaw validator</b>
 
-Accessibility testing was also successfully completed via:
+<p>Testing of the Yoga Focus HTML and CSS code has successfully been made on C3W and Jigsaw and can be found via the following links:</p>
 
-Grammar and spelling testing came out successful via:
+Accessibility testing was also successfully completed via:https://websiteaccessibilitychecker.com/checker/index.php
+
+
+Grammar and spelling testing came out successful with:
 https://app.grammarly.com/
 
 
@@ -84,10 +87,10 @@ https://osteopathic.org/what-is osteopathicmedicine/benefitsofyoga/#:~:text=Yoga
 
 <b>Images</b>
 
-All images are derived from the following website: www.pexels.com"
+<p>All images are derived from the following website: www.pexels.com
 ￼
 Some images used were too large or needed some adjustment and cropping and this was successfully managed via:
-https://tinyjpg.com/ ( compressing images, hero image)
+https://tinyjpg.com/ ( compressing images, hero image)</p>
 
 <b>Fonts</b>
 
@@ -95,13 +98,12 @@ https://tinyjpg.com/ ( compressing images, hero image)
 
 <h2>Colors</h2>
 
-A color generator was used to find a suitable color scheme for the Yoga Focus website. The focus was to find a color that exuded calm, peace, and relaxation. The hero image with a person sitting in a yoga lotus pose was used as a reference to find the right colors. The color generator can be found on the following website.
+<p>A color generator was used to find a suitable color scheme for the Yoga Focus website. The focus was to find a color that exuded calm, peace, and relaxation. The hero image with a person sitting in a yoga lotus pose was used as a reference to find the right colors. The color generator can be found on the following website.</p>
 
 https://coolors.co/
 
 ![Yoga-Focus-Colors](https://github.com/victoria-wirf/yoga-focus/assets/111445609/f3d5a177-5592-449c-a144-b168c554751d)
 
-Grammar and spelling
 
 
 
