@@ -62,6 +62,7 @@ nav {
 }
 
 nav a {
+  color: #350604;
   text-decoration: none !important;
   list-style-type: none !important;
 }
