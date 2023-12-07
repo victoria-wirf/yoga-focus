@@ -79,8 +79,10 @@ Guidelines and recommendations on how to write a README have been derived from t
 https://codetheweb.blog/steps-to-creating-a-website/ </p>
 
 <b>Content</b>
-<p>The facts and information about meditation is inspired by the following website:
-https://osteopathic.org/what-is osteopathicmedicine/benefitsofyoga/#:~:text=Yoga's%20incorporation%20of%20meditation%20and,sharpens%20concentration%2C%E2%80%9D%20says%20Dr.
+<p>The facts and information about meditation is inspired by the following websites:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3193654/
+
+https://osteopathic.org/what-is-osteopathic-medicine/benefits-of-yoga/#:~:text=Yoga's%20incorporation%20of%20meditation%20and,sharpens%20concentration%2C%E2%80%9D%20says%20Dr.
 
 <b>Images</b>
 
