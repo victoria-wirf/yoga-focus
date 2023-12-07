@@ -1,4 +1,6 @@
 **Yoga Focus**
+<img width="1053" alt="Yoga-Focus-Mockup" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/3c196916-4a57-4a14-86dd-0cab6e95b3eb">
+
 
 The main objective with this website is to introduce yoga and meditation into people's daily lives since the benefits are many.
 The website will introduce all the benefits in summarized text and encouragement to sign up to a newsletter where they will be provided more information on yoga and meditation. 
