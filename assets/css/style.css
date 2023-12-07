@@ -78,6 +78,8 @@ nav a {
 
 /* Main content */
 
+
+
 section {
   height: 100vh;
   border: 1px groove black;
@@ -154,6 +156,7 @@ section {
 #inspiration,
 #signup {
   border-radius: 25%;
+  padding: 150px;
 }
 
 
