@@ -1,6 +1,8 @@
 <h1>Yoga Focus</h1>
 <img width="1053" alt="Yoga-Focus-Mockup" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/3c196916-4a57-4a14-86dd-0cab6e95b3eb">
 
+<i>Credit: https://ui.dev/amiresponsive</i>
+
 
 
 <p>The main objective with this website is to introduce yoga and meditation into people's daily lives since the benefits are many.
@@ -46,11 +48,11 @@ The website was successfully deployed via Github by the following steps:
 3. Scroll down to ”Pages”
 4. Select ”Main branch” for deployment 
 
-Yoga Focus deployment link:
+<b>Yoga Focus deployment link:</b>
 
 https://victoria-wirf.github.io/yoga-focus/
 
-
+<h2>Testing</h2>
 
 Testing of the Yoga Focus HTML and CSS code  have successfully been made on C3W and Jigsaw that can be found via the following links:
 
@@ -70,35 +72,37 @@ Guidelines and recommendations on how to write a README have been derived from t
 
 
 
+<h2>Credits</h2>
 
+<b>Codetheweb</b>
 
+<p>The main idea of the Yoga Focus website was inspired by codetheweb website which has an organized and fun coding style that I personally liked via
+https://codetheweb.blog/steps-to-creating-a-website/ </p>
 
+<b>Content</b>
+<p>The facts and information about meditation is inspired by the following website:
+https://osteopathic.org/what-is-osteopathic-medicine/benefits-of-yoga/#:~:text=Yoga's%20incorporation%20of%20meditation%20and,sharpens%20concentration%2C%E2%80%9D%20says%20Dr.</p>
 
-**Credits** 
+<b>Images</b>
 
-https://codetheweb.blog/steps-to-creating-a-website/
-
-Content
-
-
-Media
-
-
-Relevant sources
-
-
-https://fonts.google.com/ (font source)
+All images are derived from the following website: www.pexels.com
 ￼
+Some images used were too large or needed some adjustment and cropping and this was sucessfully managed via:
 https://tinyjpg.com/ ( compressing images, hero image)
 
+<b>Fonts</b>
 
-https://fontjoy.com/ (font matching)
+<p>The fonts used are derived from the Google fonts library via the following link: https://fonts.google.com/ </p>
 
-https://coolors.co/ (color generator)
+<h2>Colors</h2>
+
+A color generator was used to find a suitable color scheme for the Yoga Focus website. The focus was to find a color that exuded calm, peace and relaxation. The hero image with a person sitting in yoga lotus pose was used as a reference to find the right colors. The color generator can be found in the following website.
+
+https://coolors.co/
 
 ![Yoga-Focus-Colors](https://github.com/victoria-wirf/yoga-focus/assets/111445609/f3d5a177-5592-449c-a144-b168c554751d)
 
 
 
-https://www.iloveimg.com/
+
 
