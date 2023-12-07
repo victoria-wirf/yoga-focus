@@ -1,3 +1,4 @@
+
 <h1>Yoga Focus</h1>
 <img width="1053" alt="Yoga-Focus-Mockup" src="https://github.com/vict<img width="1176" alt="Skärmavbild 2023-12-07 kl  15 49 11" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/d2cd952e-66d0-46eb-b051-f8f293449ecd">
 oria-wirf/yoga-focus/assets/111445609/3c196916-4a57-4a14-86dd-0cab6e95b3eb">
@@ -56,7 +57,7 @@ https://victoria-wirf.github.io/yoga-focus/
 <p>Testing of the Yoga Focus HTML and CSS code has successfully been made on C3W and Jigsaw and can be found via the following links:</p>
 
 Accessibility testing was also successfully completed via:https://websiteaccessibilitychecker.com/checker/index.php
-
+<img width="1176" alt="Yoga-Focus-Acessability" src="https://github.com/victoria-wirf/yoga-focus/assets/111445609/0f3c1ec7-5706-45f4-ae01-b2dbe462536a">
 
 Grammar and spelling testing came out successful with:
 https://app.grammarly.com/
